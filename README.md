@@ -17,4 +17,4 @@ Arquivos que o .NET criou para mim:
 ## 📸 Evidência de Execução
 ![Print do terminal rodando o projeto](./minha-evidencia.png)
 
-(./segunda-evidencia.png)
+![Print do terminal rodando o projeto](./segunda-evidencia.png)
